@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='sdf',
-    version='0.1',
+    name='sdf_fork',
+    version='0.1.1',
     description='Generate 3D meshes from signed distance functions.',
     author='Michael Fogleman',
     author_email='michael.fogleman@gmail.com',
